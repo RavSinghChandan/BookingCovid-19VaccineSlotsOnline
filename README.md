@@ -6,7 +6,9 @@ all the CRUD operations..
 Features:
 
 ❖ User Registration and Login
+
 ❖ See different lists of vaccines and vaccination centres available.
+
 ❖ Enter your details, choose your desired time slot and register for vaccination.
 ❖ Generate an appointment
 ❖ Get vaccination details (date and time of vaccination as per dose)
